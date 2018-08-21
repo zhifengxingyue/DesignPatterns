@@ -17,7 +17,7 @@ int main()
 	SAFE_DELETE(tencent);
 	SAFE_DELETE(alibaba);
 
-	getchar();
+	//getchar();
 
 	return 0;
 }
